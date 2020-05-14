@@ -1,30 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: May13 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I've Learnt What is Greedy Algorithm is by solving a problem On Leetcode.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I've recently started coding on DS and Algo. Should start learning Algoritms deep and stop using discuss section gradually.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Remove K Digits](https://github.com/SaiChandra2896/MayChallengeLEETCODE/commit/a1329ff9b5f73ae7a277aa2b7b0f4070038b3407)
+
+### Day 2: May14 2020
+
+**Today's Progress**: I've Learnt Trie Data Structure. Solved todays leetcode challange ( Implement Trie (Prefix Tree)).
+
+**Thoughts** Should learn maximum implementations of this Data Structure. 
+
+**Link(s) to work**
+1. [Implement Trie data structure](https://github.com/SaiChandra2896/MayChallengeLEETCODE/commit/e63977dd9767303cde87d2dab36b6ea12c6e1e55)
